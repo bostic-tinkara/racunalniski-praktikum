@@ -6,10 +6,6 @@
 *.fls
 *.log
 *.out
-*.pdf
 *.pyc
-<<<<<<< HEAD
 *.synctex.gz
-=======
-*.synctex.gz
->>>>>>> 924acd46ee2803bc69b9e7bc71ef5ef409047a19
+
