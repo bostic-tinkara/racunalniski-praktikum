@@ -8,5 +8,5 @@
 *.out
 *.pyc
 *.synctex.gz
-*.nav
 *.snm
+*.nav
