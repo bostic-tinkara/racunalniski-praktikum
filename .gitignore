@@ -8,4 +8,11 @@
 *.out
 *.pyc
 *.synctex.gz
+*.nav
+*.snm
 
+# Specific directories 
+06-uvod-v-latex/test/ 
+06-uvod-v-latex/urnik/ 
+07-magicni-kvadrati/ 
+08-prosojnice/
