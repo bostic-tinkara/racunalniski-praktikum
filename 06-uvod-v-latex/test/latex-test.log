@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.25)  17 NOV 2024 22:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.11)  25 NOV 2024 17:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/tinka/OneDrive/Git/racunalniski-praktikum/06-uvod-v-latex/test/latex-test.tex
-(c:/Users/tinka/OneDrive/Git/racunalniski-praktikum/06-uvod-v-latex/test/latex-test.tex
+**c:/Users/tb32226/Desktop/racunalniski-praktikum/06-uvod-v-latex/test/latex-test.tex
+(c:/Users/tb32226/Desktop/racunalniski-praktikum/06-uvod-v-latex/test/latex-test.tex
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-09-10>
-(C:\Users\tinka\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+L3 programming layer <2024-05-27>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
-(C:\Users\tinka\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count194
@@ -23,7 +23,7 @@ File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
-) (C:\Users\tinka\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count268
 \l__pdf_internal_box=\box52
@@ -52,21 +52,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 [1
 
-{C:/Users/tinka/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (latex-test.aux)
+{C:/Users/tb32226/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (latex-test.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-09-10>
+L3 programming layer <2024-05-27>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 437 strings out of 473899
- 8864 string characters out of 5726499
- 391597 words of memory out of 5000000
- 23388 multiletter control sequences out of 15000+600000
+ 437 strings out of 473904
+ 8698 string characters out of 5736408
+ 1926908 words of memory out of 5000000
+ 23383 multiletter control sequences out of 15000+600000
  558674 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,5n,50p,217b,111s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/tinka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/tinka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/tinka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/tinka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/tinka/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+ 35i,5n,50p,214b,111s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
 Output written on latex-test.pdf (1 page, 51835 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
