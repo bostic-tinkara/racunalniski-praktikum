@@ -13,13 +13,13 @@
 		\end{itemize}
 		\column{0.45\textwidth}
 		\centering
-		\only<1>{\includegraphics[width=50mm]{slike/fig-1.png}}
-		\only<2>{\includegraphics[width=50mm]{slike/fig-2.png}}
-		\only<3>{\includegraphics[width=50mm]{slike/fig-3.png}}
-		\only<4>{\includegraphics[width=50mm]{slike/fig-4.png}}
-		\only<5>{\includegraphics[width=50mm]{slike/fig-5.png}}
-		\only<6>{\includegraphics[width=50mm]{slike/fig-6.png}}
-		\only<7>{\includegraphics[width=50mm]{slike/fig-7.png}}
+		\includegraphics<1>[width=50mm]{slike/fig-1.png}
+		\includegraphics<2>[width=50mm]{slike/fig-2.png}
+		\includegraphics<3>[width=50mm]{slike/fig-3.png}
+		\includegraphics<4>[width=50mm]{slike/fig-4.png}
+		\includegraphics<5>[width=50mm]{slike/fig-5.png}
+		\includegraphics<6>[width=50mm]{slike/fig-6.png}
+		\includegraphics<7>[width=50mm]{slike/fig-7.png}
 	\end{columns}
 
 \end{frame}
@@ -81,7 +81,7 @@
 			\draw[gray, thin] (T'') arc[start angle=240, end angle=120, radius=2] node[right] {\scriptsize $n$};
 			\pause
 			% Naloga 3.4.4.: Definirajte in narišite točko C
-			\coordinate [label=right:{\scriptsize $C$}] (C) at (0,{-\t});
+			\coordinate [label=below right:{\scriptsize $C$}] (C) at (0,{-\t});
 			\draw (C) circle (1.5pt);
 			\pause
 			% Naloga 3.4.5.: Narišite premico skozi točki T in C.
@@ -94,7 +94,7 @@
 			
 
 
-Naloga 4
+%Naloga 4
 \begin{frame}{Graf funkcije s TikZ}
 	\centering
 	\begin{tikzpicture}
@@ -116,7 +116,7 @@ Naloga 4
      	samples=100, 
      	color=blue,
      	]{2^(x - 3)/2^3 + 1};
-		\addlegendentry{\(\frac{2^{x - 3}}{2^3 + 1}\)}
+		\addlegendentry{\(f(x) = \frac{2^{x-3}}{2^3} +1\)}
 		\end{axis}
 	\end{tikzpicture}
 \end{frame}
